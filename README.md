@@ -1,4 +1,4 @@
-# QGIS-Area-with-Population-Count-and-respective-Distance-To-Nearest-Hub-
+# QGIS: Area with Population Count and respective Distance To Nearest Hub
 This repository presents the Concept of Demand vs. Service Value
 
 **Why**
@@ -19,6 +19,9 @@ From these steps we produce two heatmaps. The first one depicts the amount
 
 ## Images
 
+- Heatmap of distance based demand. Red areas are where extreme users need services
 ![Heatmap of distance based demand. Red areas are where extreme users need services](https://i.redd.it/8rvqwe8pw9m71.jpg)
+
+- Heatmap of population density
 ![Heatmap of population density](https://github.com/pollo579/QGIS-Area-with-Population-Count-and-respective-Distance-To-Nearest-Hub-/blob/main/heatmap.png?raw=true)
 
