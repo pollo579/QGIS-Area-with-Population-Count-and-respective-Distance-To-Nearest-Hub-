@@ -20,5 +20,5 @@ From these steps we produce two heatmaps. The first one depicts the amount
 ## Images
 
 ![Heatmap of distance based demand. Red areas are where extreme users need services](https://i.redd.it/8rvqwe8pw9m71.jpg)
-![Heatmap of population density](https://drive.google.com/file/d/1V8a2X21e3yFD84QmDUxStf_2gEoARH-_/view?usp=sharing)
+![Heatmap of population density](https://github.com/pollo579/QGIS-Area-with-Population-Count-and-respective-Distance-To-Nearest-Hub-/blob/main/heatmap.png?raw=true)
 
