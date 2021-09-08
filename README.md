@@ -15,4 +15,9 @@ This repository presents the Concept of Demand vs. Service Value
 
 **How we do it:**
 Divide a map into smaller areas (e.g. hexagons), count the points in this dedicated area and calculate the distance from this area to the nearest hub.
-From these steps we produce two heatmaps. The first one depicts the amount   
+From these steps we produce two heatmaps. The first one depicts the amount 
+
+## Images
+
+<img src="/Users/juan.j.jaramillohenkel.com/Documents/GitHub/extreme_user_map.png" alt="Heatmap of distance based demand. Red areas are where extreme users need services" style="height: 100px; width:100px;"/>
+
