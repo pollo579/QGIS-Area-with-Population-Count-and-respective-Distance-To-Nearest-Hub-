@@ -4,11 +4,10 @@
 Single Points
 - not nullData: points should not have been deleted from map without having deleted them from the Attributes table
 ### Population density from HDX (Pregnant women from 15-49 in ethiopia)
-#### as a raster
-#### as points: Have to import from the .csv format. (Data Source Manager - Delimited Text)
+- as points: Have to import from the .csv format. (Data Source Manager - Delimited Text)
 
 ### Google Hydrid Map / Open StreetMap for the World
-#### Shapefiles from the Ethiopian Administation (Region, Zone, Woredas)
+- Shapefiles from the Ethiopian Administation (Region, Zone, Woredas)
 
 ## Clean Data
 - Location Points has to be of Type Point and not MultiPoint and the points displayed on the map have to be consistent with the attributes table. Having deleted point in the map will not delete them from the attribute table automatically. This will lead to an error in the processing of the algorithm. with HC points -> only HCs in Limu Bilbilo
