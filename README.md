@@ -19,5 +19,5 @@ From these steps we produce two heatmaps. The first one depicts the amount
 
 ## Images
 
-<img src="/Users/juan.j.jaramillohenkel.com/Documents/GitHub/extreme_user_map.jpeg" alt="Heatmap of distance based demand. Red areas are where extreme users need services" style="height: 100px; width:100px;"/>
+![Heatmap of distance based demand. Red areas are where extreme users need services](https://i.redd.it/8rvqwe8pw9m71.jpg)
 
